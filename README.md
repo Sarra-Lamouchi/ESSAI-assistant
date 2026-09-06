@@ -1,5 +1,7 @@
 # ESSAI Assistant
 
+![ESSAI Assistant demo](assets/demo_chatbot.png)
+
 An **AI-powered chatbot** that gives ESSAI students **instant, accurate answers** to their administrative and academic questions .
 
 ## Why It Matters
